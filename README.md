@@ -8,7 +8,7 @@
 
 <div align="center">
   <h2>
-    <a href="https://ClaimsStatement.doodax.com" target="_blank">
+    <a href="https://doodax.com/tools/small-claims-generator/index.html" target="_blank">
       🚀 LIVE DEMO
     </a>
   </h2>
